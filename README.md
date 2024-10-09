@@ -18,7 +18,7 @@ Testing functionality of https://www.automationexercise.com/ website, test cases
 
 3. How to install:
  3.1 Clone the Repository:
-     git clone .. ;
+     git clone https://github.com/Tarra3/cypress;
      cd cypress
  3.2 Install NPM packages: "npm i";
  3.3 Install Dependencies with command: "npm install -y".
